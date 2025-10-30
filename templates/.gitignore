@@ -1,0 +1,6 @@
+config.sh
+*.log
+*.tmp
+.vscode/
+.idea/
+.DS_Store
